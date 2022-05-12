@@ -1,0 +1,41 @@
+[ {
+  "uid" : "ec2c0b12715b58c2",
+  "name" : "createNewOrganization",
+  "time" : {
+    "start" : 1652341843808,
+    "stop" : 1652341909755,
+    "duration" : 65947
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74674c3ba795097d",
+  "name" : "createNewContact",
+  "time" : {
+    "start" : 1652341843460,
+    "stop" : 1652341916858,
+    "duration" : 73398
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2c46ac967057c01",
+  "name" : "createContactWithOrganization",
+  "time" : {
+    "start" : 1652341842591,
+    "stop" : 1652341921732,
+    "duration" : 79141
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "14e0e9c395022543",
+  "name" : "createContactWithOrganizationAndAssignGroup",
+  "time" : {
+    "start" : 1652341842544,
+    "stop" : 1652341925399,
+    "duration" : 82855
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

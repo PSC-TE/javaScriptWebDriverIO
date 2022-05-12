@@ -1,0 +1,81 @@
+{
+  "uid" : "74674c3ba795097d",
+  "name" : "createNewContact",
+  "fullName" : "suite.createNewContact",
+  "historyId" : "5f36a32bd519fbea21b44c946f4743d6",
+  "time" : {
+    "start" : 1652341843460,
+    "stop" : 1652341916858,
+    "duration" : 73398
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "ContactModule"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "suite"
+  }, {
+    "name" : "testClass",
+    "value" : "suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "createNewContact"
+  }, {
+    "name" : "package",
+    "value" : "suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b1cbef765d595494",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652341690387,
+        "stop" : 1652341764292,
+        "duration" : 73905
+      }
+    }, {
+      "uid" : "21b851548f9290d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652341343987,
+        "stop" : 1652341421088,
+        "duration" : 77101
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "74674c3ba795097d.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

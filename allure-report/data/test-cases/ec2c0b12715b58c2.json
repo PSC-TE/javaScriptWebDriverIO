@@ -1,0 +1,81 @@
+{
+  "uid" : "ec2c0b12715b58c2",
+  "name" : "createNewOrganization",
+  "fullName" : "organizationSuite.createNewOrganization",
+  "historyId" : "b52d836875d25eeda2d5e9a96955bff1",
+  "time" : {
+    "start" : 1652341843808,
+    "stop" : 1652341909755,
+    "duration" : 65947
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "OrganizationModule"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "organizationSuite"
+  }, {
+    "name" : "testClass",
+    "value" : "organizationSuite"
+  }, {
+    "name" : "testMethod",
+    "value" : "createNewOrganization"
+  }, {
+    "name" : "package",
+    "value" : "organizationSuite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dfe1215cfb865c0e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652341690703,
+        "stop" : 1652341763174,
+        "duration" : 72471
+      }
+    }, {
+      "uid" : "33678e483a41007c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652341344386,
+        "stop" : 1652341418206,
+        "duration" : 73820
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec2c0b12715b58c2.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

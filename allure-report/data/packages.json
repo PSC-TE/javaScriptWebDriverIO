@@ -1,0 +1,81 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "suite",
+    "children" : [ {
+      "name" : "createContactWithOrganizationAndAssignGroup",
+      "uid" : "14e0e9c395022543",
+      "parentUid" : "e6e2bad7ef76b000c541b649e1d573cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652341842544,
+        "stop" : 1652341925399,
+        "duration" : 82855
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "createContactWithOrganization",
+      "uid" : "f2c46ac967057c01",
+      "parentUid" : "e6e2bad7ef76b000c541b649e1d573cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652341842591,
+        "stop" : 1652341921732,
+        "duration" : 79141
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "createNewContact",
+      "uid" : "74674c3ba795097d",
+      "parentUid" : "e6e2bad7ef76b000c541b649e1d573cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652341843460,
+        "stop" : 1652341916858,
+        "duration" : 73398
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    } ],
+    "uid" : "e6e2bad7ef76b000c541b649e1d573cb"
+  }, {
+    "name" : "organizationSuite",
+    "children" : [ {
+      "name" : "createNewOrganization",
+      "uid" : "ec2c0b12715b58c2",
+      "parentUid" : "a76154d026b5f2f70adeb6a24e2bd989",
+      "status" : "passed",
+      "time" : {
+        "start" : 1652341843808,
+        "stop" : 1652341909755,
+        "duration" : 65947
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    } ],
+    "uid" : "a76154d026b5f2f70adeb6a24e2bd989"
+  } ]
+}

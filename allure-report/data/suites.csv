@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu May 12 13:20:42 IST 2022","Thu May 12 13:22:01 IST 2022","79141","","suite","","suite","createContactWithOrganization","createContactWithOrganization",""
+"passed","Thu May 12 13:20:43 IST 2022","Thu May 12 13:21:56 IST 2022","73398","","suite","","suite","createNewContact","createNewContact",""
+"passed","Thu May 12 13:20:43 IST 2022","Thu May 12 13:21:49 IST 2022","65947","","organizationSuite","","organizationSuite","createNewOrganization","createNewOrganization",""
+"passed","Thu May 12 13:20:42 IST 2022","Thu May 12 13:22:05 IST 2022","82855","","suite","","suite","createContactWithOrganizationAndAssignGroup","createContactWithOrganizationAndAssignGroup",""
